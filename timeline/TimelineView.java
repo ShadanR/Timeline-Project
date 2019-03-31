@@ -50,7 +50,7 @@ public class TimelineView {
         panel = new JPanel();
 
         JLabel label = new JLabel("Enter Event");
-        jtField = new JTextField(45); // accepts up to 45 characters
+        jtField = new JTextField(36); // accepts up to 36 characters
         sendButton = new JButton("Enter");
         resetButton = new JButton("Reset");
         sendButton.addActionListener(new LoadFileDataListener());
