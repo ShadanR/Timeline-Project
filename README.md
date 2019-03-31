@@ -50,3 +50,5 @@ After viewing the link above you should be able answer the following question. W
         
         Step 10. In the java class called "TimelineView.java" press "F6" or right click on "TimelineView.java" and press run
         
+        Step 11. Enter timeline data 
+        
