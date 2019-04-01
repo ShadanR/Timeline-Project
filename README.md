@@ -27,10 +27,12 @@ After viewing the link above you should be able answer the following question. W
           timerId = setTimeout ("scrollText()", delay);
         }</code>.</p>
         
+        This is good resource for making a gui [Java Swing Tutorial](https://www.guru99.com/java-swing-gui.html/ "With a Title").
+
         
         Instructions on how to run my program 
         
-        Step 1. Open this link in a new tab [Computer Timeline](https://github.com/ShadanR/Timeline-Project/ "OPEN").
+        Step 1. Open this link in a new tab [Computer Timeline](https://github.com/ShadanR/Timeline-Project).
         
         Step 2. Cilck the green button named "Clone or download"
         
