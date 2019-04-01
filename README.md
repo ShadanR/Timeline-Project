@@ -26,8 +26,7 @@ After viewing the link above you should be able answer the following question. W
           document.scrollmsg.scrolltext.value=message;
           timerId = setTimeout ("scrollText()", delay);
         }</code>.</p>
-        
-        This is good resource for making a gui [Java Swing Tutorial](https://www.guru99.com/java-swing-gui.html/ "With a Title").
+       
 
         
         Instructions on how to run my program 
