@@ -9,23 +9,23 @@ This is good resource for making a gui [Java Swing Tutorial](https://www.guru99.
 After viewing the link above you should be able answer the following question. What is Swing?
        
        
-##The following is an example of how you can make a scrolling textbox in JavaScpript
+       ##The following is an example of how you can make a scrolling textbox in JavaScpript
 
-<code><div id="contents" align="center"><!-- contents-->
+       <code><div id="contents" align="center"><!-- contents-->
 
-<script language="JavaScript" type="text/javascript">
-<!--
+       <script language="JavaScript" type="text/javascript">
+       <!--
 
-var message = " Hello World "
-var delay = 500;
-var timerId;
+       var message = " Hello World "
+       var delay = 500;
+       var timerId;
 
-function scrollText( )
-{	
-message = message.substring(1, message.length)+message.substring(0, 1);
-document.scrollmsg.scrolltext.value=message;
-timerId = setTimeout ("scrollText()", delay);
-}</code>.</p>
+       function scrollText( )
+       {	
+       message = message.substring(1, message.length)+message.substring(0, 1);
+       document.scrollmsg.scrolltext.value=message;
+       timerId = setTimeout ("scrollText()", delay);
+       }</code>.</p>
 
 
 
