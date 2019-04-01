@@ -28,13 +28,19 @@ After viewing the link above you should be able answer the following question. W
         }</code>.</p>
         
         
-        Instructions on how to run my program 
+        <p>Instructions on how to run my program <a
         
-        Step 1. Open this link in a new tab [Computer Timeline](https://github.com/ShadanR/Timeline-Project/ "OPEN").
+        <p>Step 1. Open this link in a new tab [Computer Timeline](https://github.com/ShadanR/Timeline-Project/ "OPEN").</p>
         
-        Step 2. Cilck the green button named "Clone or download" 
+        <p>Step 2. Cilck the green button named "Clone or download"</p>
         
+        ![](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
+
         Step 3. Copy the url by pressing the clipboard icon or ctrl c 
+        
+        
+       ![](https://help.github.com/assets/images/help/repository/https-url-clone.png)
+
         
         Step 4. Open Git Bash by searching for it in type here to search located at botton left of your taskbar 
         
